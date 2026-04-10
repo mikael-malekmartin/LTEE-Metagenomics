@@ -1,0 +1,10 @@
+# Ignore output files from circular and timecourse plots
+circular_plots/output/*
+timecourse_plots/output/*
+
+# Ignore Jupyter Notebook files
+*.ipynb
+
+# Ignore Python bytecode files and cache directories
+__pycache__/*
+*.pyc
