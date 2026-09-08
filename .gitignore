@@ -1,6 +1,7 @@
 # Ignore output files from circular and timecourse plots
 circular_plots/output/*
 timecourse_plots/output/*
+mutations_numbers/ouput/*
 
 # Ignore Jupyter Notebook files
 *.ipynb
